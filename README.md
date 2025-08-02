@@ -21,7 +21,7 @@ git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
 # Ctrl + a + ?
 mostra teclas de atalho do sistema
 
-# Ctrl + a + I
+# Ctrl + a + I(capital i)
 instala plugins
 
 # Comandos comuns
